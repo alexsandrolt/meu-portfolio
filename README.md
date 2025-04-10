@@ -56,7 +56,7 @@ O portfólio está hospedado no GitHub Pages. Você pode acessar através do lin
 
 👨‍💻 Autor
 
-Alexsandro Oliveira
+
 LinkedIn https://www.linkedin.com/in/alexsandro-aparecido-de-oliveira/
 GitHub https://github.com/alexsandrolt
 
