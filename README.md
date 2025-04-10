@@ -1,4 +1,4 @@
-![meu-portfolio](https://github.com/user-attachments/assets/f422af39-7228-4d1d-b95a-ae3ff60ea83f)
+
 
 
 
@@ -19,16 +19,6 @@ GitHub Pages para deploy
 
 
 
-🧱 Estrutura do projeto
-O projeto está dividido nas seguintes seções:
-
-index.html: estrutura principal da página.
-
-style.css: arquivo de estilos com layout responsivo, gradientes, sombras e organização em seções.
-
-imagens/: pasta com os assets visuais do portfólio.
-
-projetos/: seção com links diretos para projetos anteriores.
 
 
 
@@ -59,19 +49,13 @@ O portfólio está hospedado no GitHub Pages. Você pode acessar através do lin
 
 
 
-📌 Melhorias futuras
-Adicionar animações com JavaScript
-
-Implementar formulário com envio via e-mail
-
-Criar versão multilíngue (pt/en)
-
 
 
 
 
 
 👨‍💻 Autor
+
 Alexsandro Oliveira
 LinkedIn https://www.linkedin.com/in/alexsandro-aparecido-de-oliveira/
 GitHub https://github.com/alexsandrolt
@@ -80,7 +64,7 @@ GitHub https://github.com/alexsandrolt
 
 
 
-
+![meu-portfolio](https://github.com/user-attachments/assets/f422af39-7228-4d1d-b95a-ae3ff60ea83f)
 
 
 
