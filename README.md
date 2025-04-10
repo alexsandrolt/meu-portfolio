@@ -40,7 +40,7 @@ Navegação por scroll suave entre as seções
 
 
 🚀 Como visualizar
-O portfólio está hospedado no GitHub Pages. Você pode acessar através do link:
+
 
 👉https://alexsandrolt.github.io/meu-portfolio/
 
