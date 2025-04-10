@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alexsandro Portfólio </title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="particulas"></div>
+
+
+
+
+
+
+    <nav class="navegacao">
+        <ul class="menu">
+            <li>
+                <a href="#inicio" class="menu-link">Início</a>
+            </li>
+            <li>
+                <a href="#sobre" class="menu-link">Sobre</a>
+            </li>
+            <li>
+                <a href="#projetos" class="menu-link">Projetos</a>
+            </li>
+            <li>
+                <a href="#contatos" class="menu-link">Contato</a>
+            </li>
+        </ul>
+    </nav>
+
+    <main id="inicio" class="cabecalho">
+        <img src="./img/Alexsandro.jpg" alt="Foto de Alexsandro" class="foto-perfil">
+        <h1>Alexsandro Oliveira</h1>
+        <p class="cabecalho-sub-titulo">Desenvolvedor Front End</p>
+    </main>
+
+    <section id="sobre" class="sobre">
+        <h2 class="sobre-titulo">Sobre Mim</h2>
+        <div class="sobre-caixa">
+            <p class="sobre-paragrafo">Olá! Sou um desenvolvedor front-end apaixonado por criar experiências web únicas
+                e memoráveis. Combino código limpo com design moderno para desenvolver sites que não só funcionam
+                perfeitamente, mas também impressionam visualmente.</p>
+        </div>
+        <section id="projetos" class="projetos">
+            <h2 class="projetos-titulo">Meus Projetos</h2>
+            <div class="projetos-caixa">
+
+                <div class="projetos-card">
+                    <img src="./img/projeto-viagens.png" alt="Projeto 1" class="projetos-imagem">
+                    <div class="caixa-textos-projeto">
+                        <h3 class="info-projetos">Perfil de Viagens</h3>
+                        <p class="paragrafo-projetos">Uma página interativo com roteiros de viagem mais cobiçados do
+                            mundo.
+
+                        </p>
+                    </div>
+                </div>
+
+                <div class="projetos-card">
+                    <img src="./img/projeto-mariobros.png" alt="Projeto 1" class="projetos-imagem">
+                    <div class="caixa-textos-projeto">
+
+                        <h3 class="info-projetos">Projeto Mário</h3>
+                        <p class="paragrafo-projetos">Página dos nossos amigos The Super Marios Bros & Luigi resolvendo
+                            seus
+                            problemas.</p>
+                    </div>
+                </div>
+
+                <div class="projetos-card">
+                    <img src="./img/projeto-nike.png" alt="Projeto 1" class="projetos-imagem">
+                    <div class="caixa-textos-projeto">
+                        <h3 class="info-projetos">Loja de Tênis</h3>
+                        <p class="paragrafo-projetos">Loja virtual moderna com animações suaves e design responsivo para
+                            uma
+                            loja de tênis de luxo.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <section id="contatos" class="contatos">
+            <h2 class="contatos-titulo">Entre em Contato</h2>
+            <form class="formulario-contato" id="formulario" onsubmit="enviarWhats(event)">
+                <div class="grupo-form">
+                    <input placeholder="Nome" class="campo-form" id="nome">
+                </div class="grupo-form">
+                <div>
+                    <textarea class="campo-form" placeholder="Digite sua Mensagem" rows="10" id="mensagem"></textarea>
+                </div>
+
+                <button type="submit" class="botao-form">Enviar Whatsapp</button>
+            </form>
+        </section>
+
+        <script src="scripts.js"></script>
+</body>
+
+</html>
