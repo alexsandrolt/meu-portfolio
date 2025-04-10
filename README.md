@@ -58,7 +58,7 @@ Navegação por scroll suave entre as seções
 
 
 LinkedIn https://www.linkedin.com/in/alexsandro-aparecido-de-oliveira/
-GitHub https://github.com/alexsandrolt
+GitHub https://github.com/alexsandrolt/
 
 
 
