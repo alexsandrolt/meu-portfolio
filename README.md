@@ -3,15 +3,21 @@
 
 
 🧪 Tecnologias utilizadas
+
 HTML5
 
 CSS3
 
-JavaScript (em breve)
+JavaScript
 
 Git & GitHub para versionamento
 
 GitHub Pages para deploy
+
+
+
+
+
 
 🧱 Estrutura do projeto
 O projeto está dividido nas seguintes seções:
@@ -24,6 +30,11 @@ imagens/: pasta com os assets visuais do portfólio.
 
 projetos/: seção com links diretos para projetos anteriores.
 
+
+
+
+
+
 📁 Funcionalidades
 Layout 100% responsivo em dispositivos móveis e desktop
 
@@ -33,10 +44,19 @@ Botão de contato com redirecionamento direto para o WhatsApp
 
 Navegação por scroll suave entre as seções
 
+
+
+
+
+
 🚀 Como visualizar
 O portfólio está hospedado no GitHub Pages. Você pode acessar através do link:
 
-👉[ https://seuusuario.github.io/seu-repositorio](https://alexsandrolt.github.io/meu-portfolio/)
+👉https://alexsandrolt.github.io/meu-portfolio/
+
+
+
+
 
 
 📌 Melhorias futuras
@@ -45,6 +65,11 @@ Adicionar animações com JavaScript
 Implementar formulário com envio via e-mail
 
 Criar versão multilíngue (pt/en)
+
+
+
+
+
 
 👨‍💻 Autor
 Alexsandro Oliveira
