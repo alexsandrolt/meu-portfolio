@@ -15,7 +15,7 @@ Visualizar: https://alexsandrolt.github.io/meu-portfolio/
 LinkedIn: https://www.linkedin.com/in/alexsandro-aparecido-de-oliveira/
 
 
-https://github.com/alexsandrolt
+Github: https://github.com/alexsandrolt
 
 
 
