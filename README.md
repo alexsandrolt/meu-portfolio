@@ -1,70 +1,21 @@
-
-
-
-
-🧪 Tecnologias utilizadas
-
-HTML5
-
-CSS3
-
-JavaScript
-
-Git & GitHub para versionamento
-
-GitHub Pages para deploy
-
-
-
-
-
-
-
-
-
-
-
-
-📁 Funcionalidades
-Layout 100% responsivo em dispositivos móveis e desktop
-
-Seção de projetos com imagens clicáveis
-
-Botão de contato com redirecionamento direto para o WhatsApp
-
-Navegação por scroll suave entre as seções
-
-
-
-
-
-
-🚀 Como visualizar
-
-
-👉https://alexsandrolt.github.io/meu-portfolio/
-
-
-
-
-
-
-
-
-
-
-
-👨‍💻 Autor
-
-
-LinkedIn https://www.linkedin.com/in/alexsandro-aparecido-de-oliveira/
-GitHub https://github.com/alexsandrolt/
+Realizei essa landing page está em desenvolvimento para mais melhorias usei as tecnologias. HTML, CSS & JavaScript com as funcionalidades de Layout 100% responsivo em dispositivos móveis, desktop seção de projetos com imagens clicáveis, botão de contato com direcionamento direto para o WhatsApp e navegação por scroll suave entre as seções.
 
 
 
 
 
 ![meu-portfolio](https://github.com/user-attachments/assets/f422af39-7228-4d1d-b95a-ae3ff60ea83f)
+
+
+
+
+Visualizar: https://alexsandrolt.github.io/meu-portfolio/
+
+
+LinkedIn: https://www.linkedin.com/in/alexsandro-aparecido-de-oliveira/
+
+
+https://github.com/alexsandrolt
 
 
 
